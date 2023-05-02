@@ -1,0 +1,8 @@
+C:\Users\DELL\source\repos\SISTEMA DE RESERVACIONES\obj\Debug\SISTEMA DE RESERVACIONES.vbproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\SISTEMA DE RESERVACIONES\obj\Debug\SISTEMA DE RESERVACIONES.vbproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\SISTEMA DE RESERVACIONES\obj\Debug\SISTEMA_DE_RESERVACIONES.CLIENTES.resources
+C:\Users\DELL\source\repos\SISTEMA DE RESERVACIONES\obj\Debug\SISTEMA_DE_RESERVACIONES.Empleado.resources
+C:\Users\DELL\source\repos\SISTEMA DE RESERVACIONES\obj\Debug\SISTEMA_DE_RESERVACIONES.LoginForm1.resources
+C:\Users\DELL\source\repos\SISTEMA DE RESERVACIONES\obj\Debug\SISTEMA_DE_RESERVACIONES.Resources.resources
+C:\Users\DELL\source\repos\SISTEMA DE RESERVACIONES\obj\Debug\SISTEMA DE RESERVACIONES.vbproj.GenerateResource.cache
+C:\Users\DELL\source\repos\SISTEMA DE RESERVACIONES\obj\Debug\SISTEMA DE RESERVACIONES.vbproj.CoreCompileInputs.cache
